@@ -1,13 +1,4 @@
-/*-----------------------------------------------------------
-* Template Name    : Arshia | Responsive One Page HTML Template
-* Author           : Retrina Group
-* Version          : 1.0.0
-* Created          : June 2020
-* File Description : Main js file of the template
-*------------------------------------------------------------
-*/
 
-// repeated variables
 var $window = $(window);
 var $root = $('html, body');
 
